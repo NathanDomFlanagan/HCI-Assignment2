@@ -19,18 +19,14 @@
     background-color: #ddd;
     color: black;
   }
-  * {
-  
-  text-align: center;
 
-  
-  }
   body{
   font-family: "Helvetica Neue", "Arial", sans-serif;
+  text-align: center;
 
   }
   p {
-    padding: 20px;
+
     font-size: 22px;
   }
 
@@ -45,11 +41,9 @@
 
     flex-direction: column;
   }
-  .b1 {
+  .b1{
     display: flex;
     flex-direction: row;
-    
-
   }
 
   .b1 > div{
@@ -59,3 +53,16 @@
     font-size: 30px;
     padding: 15px;
   }
+
+.b2{
+  display: flex;
+  flex-direction: row;
+  text-align: justify;
+  padding-top: 20px;
+}
+
+.b2 > div{
+  width: 100%;
+  font-size: 30px;
+  padding: 15px;
+}
