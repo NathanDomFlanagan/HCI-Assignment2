@@ -22,7 +22,7 @@
 
   body{
   font-family: "Helvetica Neue", "Arial", sans-serif;
-  text-align: center;
+  text-align: justify;
 
   }
   p {
@@ -30,8 +30,12 @@
     font-size: 22px;
   }
 
+  h1{
+    text-align: center;
+  }
+
   .scenarioTitle{
-    background-color: #333;
+    background-color: rgb(163, 71, 71);
     color: #ffffff;
     padding: 15px;
   }
@@ -77,4 +81,17 @@
   background-color: #333;
   color: #ffffff;
   padding: 15px;
+}
+table{
+  border:2px solid black;
+  padding: 5px;
+}
+
+th, td {
+  border:2px solid black;
+  padding: 15px;
+}
+
+th{
+  width: 300px;
 }
