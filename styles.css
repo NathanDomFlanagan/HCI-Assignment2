@@ -23,7 +23,7 @@
   body{
   font-family: "Helvetica Neue", "Arial", sans-serif;
   text-align: justify;
-
+  
   }
   p {
 
@@ -76,6 +76,7 @@
   text-align: justify;
   flex-direction: column;
 }
+
 
 .title{
   background-color: #333;
