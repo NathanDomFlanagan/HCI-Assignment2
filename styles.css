@@ -66,3 +66,15 @@
   font-size: 30px;
   padding: 15px;
 }
+
+.reflexbox{
+  display: flex;
+  text-align: justify;
+  flex-direction: column;
+}
+
+.title{
+  background-color: #333;
+  color: #ffffff;
+  padding: 15px;
+}
