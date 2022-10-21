@@ -119,3 +119,10 @@ th{
 .dataConclusion{
   padding: 30px;
 }
+
+.ref_item{
+  padding: 0;
+  padding-left: 42px ;
+  text-indent: -22px ;
+  text-align: left;
+}
